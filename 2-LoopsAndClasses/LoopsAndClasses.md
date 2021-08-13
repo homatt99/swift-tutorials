@@ -6,7 +6,13 @@
 - Int: This is used for whole numbers
 - Double: This is used to represent numbers that could have a decimal (e.g. 32.0 or 32.1)
 - Bool: true or false
+     - ```
+        let is_raining: Bool = false
+        ```
 - String: 
+    - ```
+      let my_name: String = "Matthew"
+      ```
 - Character
 - __Optional__ (NEW)
 - __Tuples__ (KINDA NEW): group multiple values in a single compound Value.
